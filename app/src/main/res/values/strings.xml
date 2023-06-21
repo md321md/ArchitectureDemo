@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinFlowApplication</string>
+    <string name="text1" translatable="false">Mon</string>
+</resources>
